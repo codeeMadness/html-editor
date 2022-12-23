@@ -1,9 +1,8 @@
-import './App.css';
-import { Fragment } from 'react';
+import Content from './components/Content';
 
 function App() {
   return (
-    <Fragment><div>Hello!</div></Fragment>
+    <Content />
   );
 }
 

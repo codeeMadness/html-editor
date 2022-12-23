@@ -1,0 +1,12 @@
+.textarea {
+    width: 100%;
+    min-height: 90vh;
+    overflow: scroll;
+    margin: auto;
+    display: inline-block;
+    background: #f4f4f9;
+    outline: none;
+    font-family: Courier, sans-serif;
+    font-size: 14px;
+}
+  

@@ -1,0 +1,7 @@
+.frame {
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 98vh;
+    background-color: white;
+}
